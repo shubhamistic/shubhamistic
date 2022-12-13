@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
-- 💬 Ask me about **Python, MySQL**
+- 💬 Ask me about **Python, C++, MySQL**
 
 - 📫 How to reach me **shubham2003garg@gmail.com**
 
